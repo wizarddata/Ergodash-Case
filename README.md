@@ -12,3 +12,7 @@ The hat will need to be glued in place. The switchplate has provisions to add so
 To improve traction, wrap a #30 rubber band around each leg lengthwise. Compatible with Ergodox EZ legs as well.
 
 Model units are mm.
+
+Dual thumb buttons: https://a360.co/2LRTRW4
+
+Single thumb buttons: https://a360.co/32ohv2v
